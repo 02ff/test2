@@ -2,7 +2,7 @@
 >2018.02.05
 >김종광
 
-##Index
+## Index
 
 #### 더 작은 Title
 
@@ -10,4 +10,4 @@
 1. 환경 설정
 1. Git/Github History
 
-##Git
+## Git
